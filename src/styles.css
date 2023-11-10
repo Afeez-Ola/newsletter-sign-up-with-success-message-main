@@ -39,6 +39,10 @@ button {
     background: var(--white);
     position: absolute;
     top: 28%;
-    left: 30%;
-    /* max-width: 400px; */
+    left: 33%;
+}
+
+.left h2 {
+    color: var(--dark-slate-grey);
+    /* font-size: 3rem; */
 }
