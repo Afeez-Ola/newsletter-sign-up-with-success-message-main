@@ -42,10 +42,19 @@ button {
     left: 33%;
 }
 
+.left {
+    padding-left: 40px;
+}
+
 .left h2 {
     color: var(--dark-slate-grey);
 }
 
 .left p {
     color: var(--dark-slate-grey);
+}
+
+.mail_section input {
+    border: 1px solid var(--grey);
+    width: 100%;
 }
